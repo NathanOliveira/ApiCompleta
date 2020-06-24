@@ -9,7 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\Validations\" />
     <Folder Include="Services\" />
   </ItemGroup>
 
